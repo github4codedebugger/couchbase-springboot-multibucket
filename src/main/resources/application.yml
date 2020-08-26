@@ -1,0 +1,7 @@
+app:
+  couchbase:
+    connection-string: couchbase://127.0.0.1
+    user-name: test
+    password: test123
+    bucket-primary: customer
+    bucket-user: user
